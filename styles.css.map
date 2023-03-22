@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "C:/Users/yeril/OneDrive/Documents/GitHub/littleDog_Blog/LittleDogCode/LittleDogBLog",
+	"sourceRoot": "C:/Users/yeril/OneDrive/Documents/GitHub/littleDog_Blog/LittleDogCode/LittleDogBlog",
 	"sources": [
 		"css/base.scss",
 		"themes/terminal/assets/css/variables.scss",
