@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Terminal</title>
+    <title>LittleDogCreations</title>
     <link>https://herio5154.github.io/LittleDogCreations.github.io/</link>
-    <description>Recent content on Terminal</description>
+    <description>Recent content on LittleDogCreations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2023 15:21:29 +1030</lastBuildDate><atom:link href="https://herio5154.github.io/LittleDogCreations.github.io/index.xml" rel="self" type="application/rss+xml" />
